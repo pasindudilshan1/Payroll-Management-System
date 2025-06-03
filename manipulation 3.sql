@@ -1,0 +1,1 @@
+UPDATE EmployeeSalaryComponent SET AmountOrRate = 0.45 WHERE EmployeeComponentID = 'ESC002';
