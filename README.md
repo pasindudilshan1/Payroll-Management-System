@@ -46,7 +46,7 @@ This project demonstrates how theoretical concepts of database design can be app
 
 ## 📐 Relational Schema Diagram
 
-![Relational Schema](https://github.com/pasindudilshan1/Payroll-Management-System/blob/main/PayRollSystem%20(2).png)
+![Relational Schema](https://github.com/pasindudilshan1/Payroll-Management-System/blob/main/PayRollSystem.png)
 
 Or view it online: [dbdiagram.io](https://dbdiagram.io/d/Detailed-View-683edc3161dc3bf08d56041b)
 
