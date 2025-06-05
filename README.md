@@ -49,7 +49,8 @@ This project demonstrates how theoretical concepts of database design can be app
 ![Relational Schema](https://github.com/pasindudilshan1/Payroll-Management-System/blob/main/PayRollSystem.png)
 
 Or view it online: [dbdiagram.io](https://dbdiagram.io/d/Detailed-View-683edc3161dc3bf08d56041b)
-
+(Note-:During initial  diagram creation, a 
+foreign key link was mistakenly assigned to the GrossPay field in the PayrollTransaction table.)
 ---
 
 ## 📄 Key SQL Files
@@ -83,7 +84,7 @@ Examples included in this repo:
 
 - **1NF**: Atomic attributes, no repeating groups  
 - **2NF**: Removed partial dependencies (composite keys handled properly)  
-- **3NF**: Removed transitive dependencies (no non-key to non-key dependency)
+- **3NF**: Removed transitive dependencies [(no non-key to non-key dependency)](https://dbdocs.io/pasindupremarathna13/PayRollSystem?field=PeriodID&table=PayrollPeriod&schema=public&view=table_structure)
 
 ---
 
